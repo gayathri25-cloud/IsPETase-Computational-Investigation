@@ -1,0 +1,9 @@
+Final Module 2 comparison set (6 sequences, BLASTp vs UniProtKB/Swiss-Prot)
+
+Accession       Organism                                    Role          % identity to IsPETase
+A0A0K8P6T7      Piscinibacter / Pseudideonella sakaiensis    Query         100%
+Q47RJ7.1        Thermobifida fusca                           Comparison    51.11%
+E9LVH8.1        Thermobifida cellulosilytica                 Comparison    51.71%
+D4Q9N1.2        Thermobifida alba                            Comparison    50.19%
+G9BY57.1        LCC (leaf-branch compost cutinase)           Comparison    48.89%
+P19833.1        Moraxella sp. TA144 (lipase)                 Outgroup      45.24%
